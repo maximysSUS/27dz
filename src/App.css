@@ -1,0 +1,18 @@
+:root {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bAll{
+  width: 90%;
+  height: 90%;
+  background-color: aqua;
+  border-radius: 10px;
+  border: 3px solid white;
+}
+img{
+  width: 100px;
+}
